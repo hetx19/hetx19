@@ -1,4 +1,4 @@
-![MasterHead](https://www.bestagencies.com/wp-content/uploads/2014/01/desk.gif)
+![MasterHead](https://cdn.dribbble.com/userupload/20002537/file/original-e43e504a028631c727bf62f9521bb169.gif)
 
 <h1 align="center">Hi 👋, I'm Harshal Savaliya</h1>
 <p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
