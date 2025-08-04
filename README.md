@@ -10,7 +10,7 @@
 </a>
 
 - 🔭 I’m currently a 1st-year Computer Science Engineering student with a strong passion for Web Design and Development.
-- 🌱 Currently learning the MERN Stack and focusing on mastering Data Structures & Algorithms (DSA).
+- 🌱 Currently focusing on mastering Data Structures & Algorithms (DSA).
 - 💬 Ask me about Web Design, Web Development, and the MERN Stack.
 - 📫 Reach me at: hetsavaliya19@gmail.com
 
