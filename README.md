@@ -9,10 +9,10 @@
     <img src="https://komarev.com/ghpvc/?username=hetx19&style=for-the-badge">
 </a>
 
-- 🔭 I’m currently a high school student in the 11th grade, and I have a strong interest in **Web designing and development**
-- 🌱 I’m currently learning **MERN stack**
-- 💬 Ask me about **WebDesign Dev, MEARN**
-- 📫 How to reach me **hetsavaliya19@gmail.com**
+- 🔭 I’m currently a 1st-year Computer Science Engineering student with a strong passion for Web Design and Development.
+- 🌱 Currently learning the MERN Stack and focusing on mastering Data Structures & Algorithms (DSA).
+- 💬 Ask me about Web Design, Web Development, and the MERN Stack.
+- 📫 Reach me at: hetsavaliya19@gmail.com
 
 - ###  Connect with me
 <p align="left">
