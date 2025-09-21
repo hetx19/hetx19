@@ -1,25 +1,25 @@
-![MasterHead](https://cdn.dribbble.com/userupload/23683101/file/original-a4607e67bbbfcca44154204303c14a7a.gif)
-
 <h1 align="center">Hi 👋, I'm Harshal Savaliya</h1>
-<p align="center" display="block"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?size=30&duration=5001&color=2d7e5e&vCenter=true&center=true&width=460&lines=full-stack+web+developer" </p> 
 <h3 align="center"></h3>
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" alt="Coding" width="300">
 
-<a href="https://github.com/hetx19/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=hetx19&style=for-the-badge">
-</a>
+- 🔭 I’m currently a 1st-year Computer Science Engineering student with a strong passion for **Web Design** and **Development**.
+- 🌱 Currently focusing on mastering **Data Structures & Algorithms** (DSA).
+- 💬 Ask me about **Web Design**, **Web Development**, and the **MERN Stack**.
+- 📫 Reach me at: [hetsavaliya19@gmail.com](mailto:hetsavaliya19@gmail.com)
 
-- 🔭 I’m currently a 1st-year Computer Science Engineering student with a strong passion for Web Design and Development.
-- 🌱 Currently focusing on mastering Data Structures & Algorithms (DSA).
-- 💬 Ask me about Web Design, Web Development, and the MERN Stack.
-- 📫 Reach me at: hetsavaliya19@gmail.com
-
-- ###  Connect with me
+### Connect with me:
 <p align="left">
-<a href="https://instagram.com/hetsavaliya19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="deepkothari" height="30" width="40" /></a>
+  <a href="https://instagram.com/hetsavaliya19" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hetsavaliya19" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/harshal-savaliya" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshal-savaliya" height="30" width="40" />
+  </a>
 </p>
 
-# 💻 Tech Stack:
+
+## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
@@ -61,17 +61,25 @@
 ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 
-### 🔥 &nbsp; My Stats :
 
-<a href="https://github.com/hetx19">
-  <img height=180em align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hetx19&layout=compact&langs_count=8&theme=tokyonight" />
-</a>   
-<a href="https://github.com/hetx19">
-  <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetx19&layout=compact&langs_count=8&theme=tokyonight" />
-</a>
-<a href="https://leetcode.com/u/Harshalx19/">
-    ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshalx19?theme=unicorn&font=Birthstone)
-</a>
+## 🔥 My Stats:
+<p align="center">
+  <a href="https://github.com/hetx19">
+    <img height="180em" src="https://github-readme-stats-drab-delta.vercel.app/api?username=hetx19&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/hetx19">
+    <img height="180em" src="https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=hetx19&hide=TeX&layout=compact&theme=radical" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://leetcode.com/u/Harshalx19">
+    <img height="180em" src="https://leetcard.jacoblin.cool/Harshalx19?theme=radical" />
+  </a>
+</p>
 
 ---
 
