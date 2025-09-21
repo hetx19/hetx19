@@ -69,6 +69,9 @@
 <a href="https://github.com/hetx19">
   <img height=180em align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hetx19&layout=compact&langs_count=8&theme=tokyonight" />
 </a>
+<a href="https://leetcode.com/u/Harshalx19/">
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/Harshalx19?theme=unicorn&font=Birthstone)
+</a>
 
 ---
 
