@@ -67,7 +67,6 @@
   <a href="https://github.com/hetx19">
     <img height="180em" src="https://github-readme-stats-drab-delta.vercel.app/api?username=hetx19&count_private=true&show_icons=true&include_all_commits=true&theme=radical" />
   </a>
-  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/hetx19">
     <img height="180em" src="https://github-readme-stats-drab-delta.vercel.app/api/top-langs/?username=hetx19&hide=TeX&layout=compact&theme=radical" />
   </a>
